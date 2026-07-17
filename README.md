@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Janiish/LeetCode_problem/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Janiish/LeetCode_problem/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Janiish/LeetCode_problem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
