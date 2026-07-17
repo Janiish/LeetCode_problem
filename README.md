@@ -13,16 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Janiish/LeetCode_problem/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Janiish/LeetCode_problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janiish/LeetCode_problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Janiish/LeetCode_problem/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Janiish/LeetCode_problem/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
