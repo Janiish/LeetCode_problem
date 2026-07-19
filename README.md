@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Janiish/LeetCode_problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Janiish/LeetCode_problem/tree/master/0657-robot-return-to-origin) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Janiish/LeetCode_problem/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Janiish/LeetCode_problem/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -69,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Janiish/LeetCode_problem/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
