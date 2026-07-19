@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Janiish/LeetCode_problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Janiish/LeetCode_problem/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Janiish/LeetCode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Janiish/LeetCode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 ## Math
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Janiish/LeetCode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Janiish/LeetCode_problem/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Janiish/LeetCode_problem/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Janiish/LeetCode_problem/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
