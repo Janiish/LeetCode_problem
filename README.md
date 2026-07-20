@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Janiish/LeetCode_problem/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janiish/LeetCode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Janiish/LeetCode_problem/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
