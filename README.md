@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Janiish/LeetCode_problem/tree/master/1323-maximum-69-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Janiish/LeetCode_problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
