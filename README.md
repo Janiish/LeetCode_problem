@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Janiish/LeetCode_problem/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Janiish/LeetCode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Janiish/LeetCode_problem/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Janiish/LeetCode_problem/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
