@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Janiish/LeetCode_problem/tree/master/0657-robot-return-to-origin) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Janiish/LeetCode_problem/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Janiish/LeetCode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Janiish/LeetCode_problem/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
