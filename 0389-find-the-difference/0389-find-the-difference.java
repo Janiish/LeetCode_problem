@@ -4,11 +4,11 @@ class Solution {
         char[] sop=s.toCharArray();
         long sum=0, diff=0;
         for(char c: top){
-            sum+=c-'a';
+            sum+=c;
         }
         for(char c:sop){
-            diff+=c-'a';
+            diff+=c;
         }
-        return (char)(sum-diff+'a');
+        return (char)(sum-diff);
     }
 }
