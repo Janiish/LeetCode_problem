@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janiish/LeetCode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Janiish/LeetCode_problem/tree/master/1323-maximum-69-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Janiish/LeetCode_problem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Janiish/LeetCode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Janiish/LeetCode_problem/tree/master/0657-robot-return-to-origin) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Janiish/LeetCode_problem/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
