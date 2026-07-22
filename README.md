@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janiish/LeetCode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Janiish/LeetCode_problem/tree/master/1323-maximum-69-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Janiish/LeetCode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Janiish/LeetCode_problem/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Janiish/LeetCode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
