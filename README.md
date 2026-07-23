@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Janiish/LeetCode_problem/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Janiish/LeetCode_problem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Janiish/LeetCode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Janiish/LeetCode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Janiish/LeetCode_problem/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Janiish/LeetCode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
