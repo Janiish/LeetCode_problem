@@ -4,7 +4,7 @@ class Solution {
         int left=0;
         int right=ch.length-1;
         while(left<right){
-        if(left<right && !Character.isLetter(ch[left])){
+        if( !Character.isLetter(ch[left])){
            left++;
 
         }else if(!Character.isLetter(ch[right])){
