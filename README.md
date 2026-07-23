@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Janiish/LeetCode_problem/tree/master/0812-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/Janiish/LeetCode_problem/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Janiish/LeetCode_problem/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janiish/LeetCode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Janiish/LeetCode_problem/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Janiish/LeetCode_problem/tree/master/1903-largest-odd-number-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Janiish/LeetCode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/Janiish/LeetCode_problem/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Janiish/LeetCode_problem/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Janiish/LeetCode_problem/tree/master/0812-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/Janiish/LeetCode_problem/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Janiish/LeetCode_problem/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Stack
 |  |
 | ------- |
