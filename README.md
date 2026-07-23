@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Janiish/LeetCode_problem/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Janiish/LeetCode_problem/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Janiish/LeetCode_problem/tree/master/0812-largest-triangle-area) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janiish/LeetCode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Janiish/LeetCode_problem/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Janiish/LeetCode_problem/tree/master/1903-largest-odd-number-in-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Janiish/LeetCode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Janiish/LeetCode_problem/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
+| [0812-largest-triangle-area](https://github.com/Janiish/LeetCode_problem/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Janiish/LeetCode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Janiish/LeetCode_problem/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
