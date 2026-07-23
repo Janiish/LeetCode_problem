@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Janiish/LeetCode_problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Janiish/LeetCode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Janiish/LeetCode_problem/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
@@ -132,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Janiish/LeetCode_problem/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
