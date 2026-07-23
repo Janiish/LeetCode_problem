@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Janiish/LeetCode_problem/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Janiish/LeetCode_problem/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Janiish/LeetCode_problem/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Janiish/LeetCode_problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Janiish/LeetCode_problem/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Janiish/LeetCode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Janiish/LeetCode_problem/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Janiish/LeetCode_problem/tree/master/0463-island-perimeter) |
 | [0905-sort-array-by-parity](https://github.com/Janiish/LeetCode_problem/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Janiish/LeetCode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Janiish/LeetCode_problem/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
