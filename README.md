@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Janiish/LeetCode_problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Janiish/LeetCode_problem/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/Janiish/LeetCode_problem/tree/master/1603-design-parking-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Janiish/LeetCode_problem/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Janiish/LeetCode_problem/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/Janiish/LeetCode_problem/tree/master/1603-design-parking-system) |
 ## Greedy
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janiish/LeetCode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Janiish/LeetCode_problem/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
